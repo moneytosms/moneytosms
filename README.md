@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I’m Srimoneyshankar Ajith 👋,<br>I'm aComputer Science & Engineering student at IIIT Kottayam with a deep interest in programming, problem-solving, and exploring new technologies. I enjoy taking on challenging coding projects, learning new concepts, and applying my knowledge to build meaningful applications. I thrive in both personal and collaborative projects that push my limits and help me grow. I'm always excited to dive into new challenges and continuously improve my skills.<br><br>Feel free to explore my repositories, and let's connect!
+Hi there! I’m Srimoneyshankar Ajith 👋,<br>I'm a Computer Science & Engineering student at IIIT Kottayam with a deep interest in programming, problem-solving, and exploring new technologies. I enjoy taking on challenging coding projects, learning new concepts, and applying my knowledge to build meaningful applications. I thrive in both personal and collaborative projects that push my limits and help me grow. I'm always excited to dive into new challenges and continuously improve my skills.<br><br>Feel free to explore my repositories, and let's connect!
 
 
 ## 🌐 Socials:
