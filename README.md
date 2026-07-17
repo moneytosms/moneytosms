@@ -2,6 +2,10 @@
 
 <img src="assets/readme/terminal-hero.svg" width="800" alt="Terminal profile card for Srimoneyshankar Ajith" />
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=22C55E&background=18181BFF&center=true&vCenter=true&width=600&lines=building+dev+tooling;shipping+AI-agent+workflows;always+learning" alt="Typing SVG" />
+
 </div>
 
 <br/>
@@ -78,6 +82,13 @@ Offline face recognition + liveness detection for field personnel in zero-networ
 
 <br/>
 
+### Latest posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
 ### Elsewhere
 
 <p align="left">
@@ -94,5 +105,13 @@ Offline face recognition + liveness detection for field personnel in zero-networ
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moneytosms&show_icons=true&count_private=true&title_color=10b981&text_color=e4e4e7&icon_color=0891b2&bg_color=18181b&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moneytosms&langs_count=8&title_color=10b981&text_color=e4e4e7&icon_color=0891b2&bg_color=18181b&hide_border=true&layout=compact)
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moneytosms/moneytosms/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moneytosms/moneytosms/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/moneytosms/moneytosms/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
