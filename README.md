@@ -130,6 +130,11 @@ A no-fluff guide to surviving CS coursework. [Live site](https://intro-to-cse.ve
 ## Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The $0 Virtual Machine &lpar;and Everything That Tried to Stop Me&rpar;](https://medium.com/@moneytosms/the-0-virtual-machine-and-everything-that-tried-to-stop-me-d3e319cb422d?source=rss-d22ddca7c105------2)
+- [That time I Turned a Dying Laptop Into a 30-Service Cloud and Named It After the Sky](https://medium.com/@moneytosms/that-time-i-turned-a-dying-laptop-into-a-30-service-cloud-and-named-it-after-the-sky-e7247dc7c8f1?source=rss-d22ddca7c105------2)
+- [I Let DHH Configure My Linux So I Didn’t Have To](https://medium.com/@moneytosms/i-let-dhh-configure-my-linux-so-i-didnt-have-to-d178116a43c6?source=rss-d22ddca7c105------2)
+- [How I spent a Saturday doing something a normal person would call unnecessary](https://medium.com/@moneytosms/how-i-spent-a-saturday-doing-something-a-normal-person-would-call-unnecessary-6c59c118b532?source=rss-d22ddca7c105------2)
+- [Here’s how I didn’t implement Linear Regression from scratch](https://medium.com/@moneytosms/heres-how-i-didn-t-implement-linear-regression-from-scratch-739d079a2b59?source=rss-d22ddca7c105------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
