@@ -2,9 +2,13 @@
 
 <img src="assets/readme/terminal-hero.svg" width="800" alt="Terminal profile card for Srimoneyshankar Ajith" />
 
+</div>
+
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=22C55E&background=18181BFF&center=true&vCenter=true&width=600&lines=building+dev+tooling;shipping+AI-agent+workflows;always+learning" alt="Typing SVG" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=22C55E&center=true&vCenter=true&width=600&lines=building+dev+tooling;shipping+AI-agent+workflows;always+learning" alt="Typing SVG" />
 
 </div>
 
@@ -12,11 +16,12 @@
 
 ## About
 
-CS & Engineering student at IIIT Kottayam. I spend most of my time building small dev tools and automations, competing in competitive programming, and messing with my terminal setup more than is strictly necessary. Outside of code I'm into reading, music, and gaming, and I'm generally just trying to learn something new whenever I can.
+CS & Engineering student at IIIT Kottayam. I spend most of my time building small dev tools and automations, doing DSA, and messing with my terminal setup more than is strictly necessary. Lately that's meant agentic AI systems, local LLMs, and Claude Code tooling. Outside of code I'm into reading, music, and gaming, and I'm generally just trying to learn something new whenever I can.
 
 - 📍 Trivandrum, currently at IIIT Kottayam
 - ✉️ [moneytosms@gmail.com](mailto:moneytosms@gmail.com)
-- 🧠 Learning: ML, agentic workflows
+- 🌐 Portfolio: [moneytosms.is-a.dev](https://moneytosms.is-a.dev/)
+- 🧠 Learning: agentic AI, local LLM fine-tuning
 - ✍️ Write occasionally on [Medium](http://www.medium.com/@moneytosms)
 
 <br/>
@@ -25,30 +30,42 @@ CS & Engineering student at IIIT Kottayam. I spend most of my time building smal
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[ducktype](https://github.com/moneytosms/ducktype)**
 Monkeytype-quality typing practice, purpose-built for real code. Syntax highlighting, multi-line snippets, IDE mode.
 
 </td>
-<td width="50%" valign="top">
-
-**[Intro to CSE](https://github.com/moneytosms/Intro-to-CSE)** ★6
-A no-fluff guide to surviving CS coursework. [Live site](https://intro-to-cse.vercel.app/).
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[claude-start](https://github.com/moneytosms/claude-start)**
 Opinionated Claude Code starter. Clone, run install, answer five questions, start building.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[offlineid](https://github.com/moneytosms/offlineid)**
 Offline face recognition and liveness detection for field personnel in zero-network zones.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**[skillDB](https://github.com/moneytosms/skillDB)**
+Privacy-first AI resume builder. Local-first, no database, tailored ATS-friendly LaTeX CVs. [Live](https://skill-db.vercel.app/).
+
+</td>
+<td width="33%" valign="top">
+
+**[notegen](https://github.com/moneytosms/notegen)**
+Turns YouTube videos and web pages into structured Obsidian notes, with diagrams and wikilinks.
+
+</td>
+<td width="33%" valign="top">
+
+**[Intro to CSE](https://github.com/moneytosms/Intro-to-CSE)** ★6
+A no-fluff guide to surviving CS coursework. [Live site](https://intro-to-cse.vercel.app/).
 
 </td>
 </tr>
@@ -76,15 +93,30 @@ Offline face recognition and liveness detection for field personnel in zero-netw
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**ML & data**
+**AI & agents**
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+
+**Databases**
+
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Security**
+
+![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square)
 
 **Terminal, editor & everyday tools**
 
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Zed](https://img.shields.io/badge/-Zed-084CCF?style=flat-square&logo=zedindustries&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![tmux](https://img.shields.io/badge/-tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
 ![Zsh](https://img.shields.io/badge/-Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white)
@@ -98,24 +130,21 @@ Offline face recognition and liveness detection for field personnel in zero-netw
 ## Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The $0 Virtual Machine &lpar;and Everything That Tried to Stop Me&rpar;](https://medium.com/@moneytosms/the-0-virtual-machine-and-everything-that-tried-to-stop-me-d3e319cb422d?source=rss-d22ddca7c105------2)
-- [That time I Turned a Dying Laptop Into a 30-Service Cloud and Named It After the Sky](https://medium.com/@moneytosms/that-time-i-turned-a-dying-laptop-into-a-30-service-cloud-and-named-it-after-the-sky-e7247dc7c8f1?source=rss-d22ddca7c105------2)
-- [I Let DHH Configure My Linux So I Didn’t Have To](https://medium.com/@moneytosms/i-let-dhh-configure-my-linux-so-i-didnt-have-to-d178116a43c6?source=rss-d22ddca7c105------2)
-- [How I spent a Saturday doing something a normal person would call unnecessary](https://medium.com/@moneytosms/how-i-spent-a-saturday-doing-something-a-normal-person-would-call-unnecessary-6c59c118b532?source=rss-d22ddca7c105------2)
-- [Here’s how I didn’t implement Linear Regression from scratch](https://medium.com/@moneytosms/heres-how-i-didn-t-implement-linear-regression-from-scratch-739d079a2b59?source=rss-d22ddca7c105------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
 
 ## Elsewhere
 
-<p align="left">
-<a href="https://www.github.com/moneytosms" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="28" height="28" alt="GitHub" /></a>&nbsp;
-<a href="https://www.x.com/srimoney_s" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="28" height="28" alt="X" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/srimoneyshankar-ajith-a5a6831ba/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" alt="LinkedIn" /></a>&nbsp;
-<a href="http://www.medium.com/@moneytosms" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="28" height="28" alt="Medium" /></a>&nbsp;
-<a href="https://discord.com/users/411523717600903181" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="28" height="28" alt="Discord" /></a>
-</p>
+| | |
+|---|---|
+| 💻 GitHub | [github.com/moneytosms](https://www.github.com/moneytosms) |
+| 💼 LinkedIn | [srimoneyshankar-ajith](https://www.linkedin.com/in/srimoneyshankar-ajith-a5a6831ba/) |
+| 🐦 X | [@srimoney_s](https://www.x.com/srimoney_s) |
+| ✍️ Medium | [@moneytosms](http://www.medium.com/@moneytosms) |
+| 🌐 Portfolio | [moneytosms.is-a.dev](https://moneytosms.is-a.dev/) |
+| 🧩 LeetCode | [150+ problems solved](https://leetcode.com/u/Lu26aaYAlW/) |
+| 💬 Discord | [moneytosms](https://discord.com/users/411523717600903181) |
 
 <br/>
 
@@ -123,15 +152,19 @@ Offline face recognition and liveness detection for field personnel in zero-netw
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-red.vercel.app/api?username=moneytosms&show_icons=true&count_private=true&title_color=10b981&text_color=e4e4e7&icon_color=0891b2&bg_color=18181b&hide_border=true)
-![Top Langs](https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=moneytosms&langs_count=8&title_color=10b981&text_color=e4e4e7&icon_color=0891b2&bg_color=18181b&hide_border=true&layout=compact)
+<img src="https://github-readme-stats-sigma-red.vercel.app/api?username=moneytosms&show_icons=true&title_color=10b981&text_color=e4e4e7&icon_color=0891b2&bg_color=18181b&hide_border=true" width="49%" alt="GitHub stats" />
+<img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=moneytosms&langs_count=8&title_color=10b981&text_color=e4e4e7&icon_color=0891b2&bg_color=18181b&hide_border=true&layout=compact" width="49%" alt="Top languages" />
+
+</div>
 
 <br/>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moneytosms/moneytosms/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moneytosms/moneytosms/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/moneytosms/moneytosms/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" width="800" src="https://raw.githubusercontent.com/moneytosms/moneytosms/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
