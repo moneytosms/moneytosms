@@ -1,14 +1,6 @@
 <div align="center">
 
-<img src="assets/readme/terminal-hero.svg" width="800" alt="Terminal profile card for Srimoneyshankar Ajith" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=22C55E&center=true&vCenter=true&width=600&lines=building+dev+tooling;shipping+AI-agent+workflows;always+learning" alt="Typing SVG" />
+<img src="assets/readme/terminal-hero.svg" width="900" alt="Neofetch-style profile card for Srimoneyshankar Ajith" />
 
 </div>
 
@@ -23,6 +15,14 @@ CS & Engineering student at IIIT Kottayam. I spend most of my time building smal
 - 🌐 Portfolio: [moneytosms.is-a.dev](https://moneytosms.is-a.dev/)
 - 🧠 Learning: agentic AI, local LLM fine-tuning
 - ✍️ Write occasionally on [Medium](http://www.medium.com/@moneytosms)
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=22C55E&center=true&vCenter=true&width=600&lines=building+dev+tooling;shipping+AI-agent+workflows;always+learning" alt="Typing SVG" />
+
+</div>
 
 <br/>
 
@@ -136,26 +136,30 @@ A no-fluff guide to surviving CS coursework. [Live site](https://intro-to-cse.ve
 
 ## Elsewhere
 
-| | |
-|---|---|
-| 💻 GitHub | [github.com/moneytosms](https://www.github.com/moneytosms) |
-| 💼 LinkedIn | [srimoneyshankar-ajith](https://www.linkedin.com/in/srimoneyshankar-ajith-a5a6831ba/) |
-| 🐦 X | [@srimoney_s](https://www.x.com/srimoney_s) |
-| ✍️ Medium | [@moneytosms](http://www.medium.com/@moneytosms) |
-| 🌐 Portfolio | [moneytosms.is-a.dev](https://moneytosms.is-a.dev/) |
-| 🧩 LeetCode | [150+ problems solved](https://leetcode.com/u/Lu26aaYAlW/) |
-| 💬 Discord | [moneytosms](https://discord.com/users/411523717600903181) |
+<p align="left">
+<a href="https://www.github.com/moneytosms"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/srimoneyshankar-ajith-a5a6831ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.x.com/srimoney_s"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="http://www.medium.com/@moneytosms"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://discord.com/users/411523717600903181"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://leetcode.com/u/Lu26aaYAlW/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode (150+ solved)" /></a>
+<a href="https://moneytosms.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 <br/>
 
 ## Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-red.vercel.app/api?username=moneytosms&show_icons=true&title_color=10b981&text_color=e4e4e7&icon_color=0891b2&bg_color=18181b&hide_border=true" width="49%" alt="GitHub stats" />
-<img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=moneytosms&langs_count=8&title_color=10b981&text_color=e4e4e7&icon_color=0891b2&bg_color=18181b&hide_border=true&layout=compact" width="49%" alt="Top languages" />
-
-</div>
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<img src="https://github-readme-stats-sigma-red.vercel.app/api?username=moneytosms&show_icons=true&title_color=10b981&text_color=e4e4e7&icon_color=0891b2&bg_color=18181b&hide_border=true" width="100%" alt="GitHub stats" />
+</td>
+<td width="50%" valign="top" align="center">
+<img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=moneytosms&langs_count=8&title_color=10b981&text_color=e4e4e7&icon_color=0891b2&bg_color=18181b&hide_border=true&layout=compact" width="100%" alt="Top languages" />
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -164,7 +168,7 @@ A no-fluff guide to surviving CS coursework. [Live site](https://intro-to-cse.ve
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moneytosms/moneytosms/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moneytosms/moneytosms/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" width="800" src="https://raw.githubusercontent.com/moneytosms/moneytosms/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" width="100%" src="https://raw.githubusercontent.com/moneytosms/moneytosms/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
