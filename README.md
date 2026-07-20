@@ -177,3 +177,5 @@ A no-fluff guide to surviving CS coursework. [Live site](https://intro-to-cse.ve
 </picture>
 
 </div>
+
+To view my certifications checkout this [page](Certifications.md)
