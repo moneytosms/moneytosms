@@ -75,7 +75,9 @@ A no-fluff guide to surviving CS coursework. [Live site](https://intro-to-cse.ve
 
 ## Toolbox
 
-**Languages**
+<details open>
+<summary><b>Languages</b></summary>
+<br/>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -84,7 +86,11 @@ A no-fluff guide to surviving CS coursework. [Live site](https://intro-to-cse.ve
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
-**Frameworks & web**
+</details>
+
+<details>
+<summary><b>Frameworks & web</b></summary>
+<br/>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -93,7 +99,11 @@ A no-fluff guide to surviving CS coursework. [Live site](https://intro-to-cse.ve
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**AI & agents**
+</details>
+
+<details open>
+<summary><b>AI & agents</b></summary>
+<br/>
 
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
@@ -102,18 +112,30 @@ A no-fluff guide to surviving CS coursework. [Live site](https://intro-to-cse.ve
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 
-**Databases**
+</details>
+
+<details>
+<summary><b>Databases</b></summary>
+<br/>
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**Security**
+</details>
+
+<details>
+<summary><b>Security</b></summary>
+<br/>
 
 ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square)
 
-**Terminal, editor & everyday tools**
+</details>
+
+<details>
+<summary><b>Terminal, editor & everyday tools</b></summary>
+<br/>
 
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Zed](https://img.shields.io/badge/-Zed-084CCF?style=flat-square&logo=zedindustries&logoColor=white)
@@ -124,6 +146,8 @@ A no-fluff guide to surviving CS coursework. [Live site](https://intro-to-cse.ve
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+
+</details>
 
 <br/>
 
@@ -164,7 +188,14 @@ A no-fluff guide to surviving CS coursework. [Live site](https://intro-to-cse.ve
 <img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=moneytosms&langs_count=8&title_color=10b981&text_color=e4e4e7&icon_color=0891b2&bg_color=18181b&hide_border=true&layout=compact" width="100%" alt="Top languages" />
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top" align="center">
+<img src="https://streak-stats.demolab.com?user=moneytosms&background=18181b&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=e4e4e7&currStreakNum=e4e4e7&sideNums=e4e4e7&dates=a1a1aa&stroke=27272a&hide_border=true" width="60%" alt="GitHub streak" />
+</td>
+</tr>
 </table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moneytosms&bg_color=18181b&color=e4e4e7&title_color=10b981&line=10b981&point=0891b2&area=true&area_color=10b981&hide_border=true" width="100%" alt="Contribution activity graph" />
 
 <br/>
 
