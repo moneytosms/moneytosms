@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/readme/terminal-hero.svg" width="900" alt="Neofetch-style profile card for Srimoneyshankar Ajith" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme/terminal-hero-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/terminal-hero.svg" />
+  <img src="assets/readme/terminal-hero.svg" width="900" alt="Neofetch-style profile card for Srimoneyshankar Ajith" />
+</picture>
 
 </div>
 
@@ -8,26 +12,39 @@
 
 ## About
 
-CS & Engineering student at IIIT Kottayam. I spend most of my time building small dev tools and automations, doing DSA, and messing with my terminal setup more than is strictly necessary. Lately that's meant agentic AI systems, local LLMs, and Claude Code tooling. Outside of code I'm into reading, music, and gaming, and I'm generally just trying to learn something new whenever I can.
+CS & Engineering student at IIIT Kottayam. I spend most of my time building small dev tools and automations, doing DSA, and messing with my terminal setup more than is strictly necessary. Lately that's meant agentic AI systems, local LLMs, and Claude Code tooling. Outside of code I'm into homelabbing, reading, writing, music, and gaming, and I'm generally just trying to learn something new whenever I can.
 
 - 📍 Trivandrum, currently at IIIT Kottayam
 - ✉️ [moneytosms@gmail.com](mailto:moneytosms@gmail.com)
 - 🌐 Portfolio: [moneytosms.is-a.dev](https://moneytosms.is-a.dev/)
 - 🧠 Learning: agentic AI, local LLM fine-tuning
-- ✍️ Write occasionally on [Medium](http://www.medium.com/@moneytosms)
+- ✍️ Write occasionally on [Medium](https://medium.com/@moneytosms)
 
 <br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=22C55E&center=true&vCenter=true&width=600&lines=building+dev+tooling;shipping+AI-agent+workflows;always+learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=22C55E&center=true&vCenter=true&width=600&lines=building+dev+tooling;shipping+AI-agent+workflows;always+learning" alt="Animated tagline cycling through: building dev tooling, shipping AI-agent workflows, always learning" />
 
 </div>
 
 <br/>
 
+## Currently
+
+```text
+$ now --status
+building   verd (Codeforces/CSES in the terminal), jot (terminal journal)
+shipping   tally (expense splitter), termwise (college ERP)
+writing    a lot of Go and Rust lately, plus croniter-rs
+learning   agentic AI, local LLM fine-tuning
+```
+
+<br/>
+
 ## Pinned
 
+<!-- PINNED:START -->
 <table>
 <tr>
 <td width="33%" valign="top">
@@ -70,6 +87,7 @@ A no-fluff guide to surviving CS coursework. [Live site](https://intro-to-cse.ve
 </td>
 </tr>
 </table>
+<!-- PINNED:END -->
 
 <br/>
 
@@ -145,7 +163,7 @@ A no-fluff guide to surviving CS coursework. [Live site](https://intro-to-cse.ve
 <a href="https://www.github.com/moneytosms"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/srimoneyshankar-ajith-a5a6831ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.x.com/srimoney_s"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="http://www.medium.com/@moneytosms"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://medium.com/@moneytosms"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="https://discord.com/users/411523717600903181"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="https://leetcode.com/u/Lu26aaYAlW/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode (150+ solved)" /></a>
 <a href="https://moneytosms.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
@@ -158,10 +176,18 @@ A no-fluff guide to surviving CS coursework. [Live site](https://intro-to-cse.ve
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<img src="https://github-readme-stats-sigma-red.vercel.app/api?username=moneytosms&show_icons=true&title_color=10b981&text_color=e4e4e7&icon_color=0891b2&bg_color=18181b&hide_border=true" width="100%" alt="GitHub stats" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats/stats-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats/stats-dark.svg" />
+  <img src="assets/stats/stats-dark.svg" width="100%" alt="GitHub stats: stars, repos, followers, pull requests, commits" />
+</picture>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=moneytosms&langs_count=8&title_color=10b981&text_color=e4e4e7&icon_color=0891b2&bg_color=18181b&hide_border=true&layout=compact" width="100%" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats/langs-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats/langs-dark.svg" />
+  <img src="assets/stats/langs-dark.svg" width="100%" alt="Top languages across my public repos" />
+</picture>
 </td>
 </tr>
 </table>
@@ -178,4 +204,4 @@ A no-fluff guide to surviving CS coursework. [Live site](https://intro-to-cse.ve
 
 </div>
 
-To view my certifications checkout this [page](Certifications.md)
+To view my certificate, check out this [page](Certifications.md).
