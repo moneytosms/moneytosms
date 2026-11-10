@@ -49,19 +49,19 @@ learning   agentic AI, local LLM fine-tuning
 <tr>
 <td width="33%" valign="top">
 
-**[ducktype](https://github.com/moneytosms/ducktype)**
+**[ducktype](https://github.com/moneytosms/ducktype)** ★5
 Monkeytype-quality typing practice, purpose-built for real code. Syntax highlighting, multi-line snippets, IDE mode.
 
 </td>
 <td width="33%" valign="top">
 
-**[claude-start](https://github.com/moneytosms/claude-start)**
+**[claude-start](https://github.com/moneytosms/claude-start)** ★2
 Opinionated Claude Code starter. Clone, run install, answer five questions, start building.
 
 </td>
 <td width="33%" valign="top">
 
-**[offlineid](https://github.com/moneytosms/offlineid)**
+**[offlineid](https://github.com/moneytosms/offlineid)** ★2
 Offline face recognition and liveness detection for field personnel in zero-network zones.
 
 </td>
@@ -75,7 +75,7 @@ Privacy-first AI resume builder. Local-first, no database, tailored ATS-friendly
 </td>
 <td width="33%" valign="top">
 
-**[notegen](https://github.com/moneytosms/notegen)**
+**[notegen](https://github.com/moneytosms/notegen)** ★1
 Turns YouTube videos and web pages into structured Obsidian notes, with diagrams and wikilinks.
 
 </td>
