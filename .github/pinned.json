@@ -1,0 +1,11 @@
+{
+  "columns": 3,
+  "repos": [
+    {"name": "ducktype", "title": "ducktype", "pitch": "Monkeytype-quality typing practice, purpose-built for real code. Syntax highlighting, multi-line snippets, IDE mode."},
+    {"name": "claude-start", "title": "claude-start", "pitch": "Opinionated Claude Code starter. Clone, run install, answer five questions, start building."},
+    {"name": "offlineid", "title": "offlineid", "pitch": "Offline face recognition and liveness detection for field personnel in zero-network zones."},
+    {"name": "skillDB", "title": "skillDB", "pitch": "Privacy-first AI resume builder. Local-first, no database, tailored ATS-friendly LaTeX CVs.", "link": {"label": "Live", "url": "https://skill-db.vercel.app/"}},
+    {"name": "notegen", "title": "notegen", "pitch": "Turns YouTube videos and web pages into structured Obsidian notes, with diagrams and wikilinks."},
+    {"name": "Intro-to-CSE", "title": "Intro to CSE", "pitch": "A no-fluff guide to surviving CS coursework.", "link": {"label": "Live site", "url": "https://intro-to-cse.vercel.app/"}}
+  ]
+}
